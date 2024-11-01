@@ -40,7 +40,6 @@ stages:
           - nvidia-vaapi-driver
           - nvidia-settings
           - nvidia-persistenced
-          - nvidia-smi
           - libnvidia-cfg1
           - libnvidia-glcore
           - libnvidia-glvkspirv
